@@ -1,14 +1,9 @@
-# ha-wework_notify
-HomeAssistant 企业微信推送
-
-修改自：https://bbs.hassbian.com/thread-12547-1-1.html ，增加hacs接入方式。
+# HA-Wework-Notify
+HomeAssistant企业微信推送
 
 ## 安装
 
-* 将 custom_component 文件夹中的内容拷贝至自己的相应目录
-
-或者
-* 将此 repo ([https://github.com/nesror/ha-wework_notify](https://github.com/nesror/ha-wework_notify)) 添加到 [HACS](https://hacs.xyz/)，然后添加“Wework Notify”
+* 将此 repo https://github.com/Westwall98/HA-Wework-Notify 添加到 [HACS](https://hacs.xyz/)
 
 ## 配置
 ```yaml

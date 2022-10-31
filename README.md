@@ -3,7 +3,7 @@ HomeAssistant企业微信推送
 
 ## 安装
 
-* 将此 repo https://github.com/Westwall98/HA-Wework-Notify 添加到 [HACS](https://hacs.xyz/)
+* 将此 repo (https://github.com/Westwall98/HA-Wework-Notify) 添加到 [HACS](https://hacs.xyz/)
 
 ## 配置
 ```yaml

@@ -1,5 +1,5 @@
 # HA-Wework-Notify
-HomeAssistant企业微信推送
+HomeAssistant 企业微信推送
 
 ## 安装
 
@@ -9,11 +9,11 @@ HomeAssistant企业微信推送
 ```yaml
 notify:
   - platform: wework_notify
-    name: wework          # 实体ID  比如这个出来就是notify.wework
-    corpid:               # 这个是企业微信的企业id
-    agentId: "1000002"    # 这个是企业微信里面新建应用的应用id
-    secret:               # 这个是企业微信里面新建应用的应用secret
-    touser: '@all'        # 全体成员
+    name: wework          # 实体ID
+    corpid: "XXXXXXX"     # 企业微信的企业id
+    agentId: "1000002"    # 企业微信的应用id
+    secret: "XXXXXXX"     # 企业微信的应用secret
+    touser: 'A|B|C'       # A&B&C
 ```
 
 ## 使用

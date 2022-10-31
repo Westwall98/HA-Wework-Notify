@@ -1,0 +1,11 @@
+{
+  "domain": "wework_notify",
+  "name": "Wework Notify",
+  "config_flow": true,
+  "documentation": "https://github.com/Westwall98/HomeAssistant-Wework-Notify",
+  "issue_tracker": "https://github.com/Westwall98/HomeAssistant-Wework-Notify/issues",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "version": "v1.0.0"
+}
